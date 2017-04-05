@@ -2,8 +2,8 @@
 Dette repo vil indeholde materialer der kommer i løbet af projekt perioden.
 
 ## Review planer
-Mødetider for Review fredag den 7.april er i PDF dokumentet; **Timetable for SCRUM meeting 7 april**  
-Da der ikke er så meget tid til hver gruppe er det vigtigt at i er der til tiden.
+- Møde tider for teknisk review torsdag den 6. april er i dokumentet **Timetable for technical review 6. april.pdf**
+- Mødetider for Review fredag den 7.april er i PDF dokumentet; **Timetable for SCRUM meeting 7 april**.  Da der ikke er så meget tid til hver gruppe er det vigtigt at i er der til tiden.
 
 ## Undervisnings gange
 - Onsdag den 5. april er der særlig hjælp fra en af tutorene i lokale 1.60 omkring JSP/Servlet
