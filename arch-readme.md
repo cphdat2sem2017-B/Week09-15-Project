@@ -1,9 +1,9 @@
 # Architecture and documentation
-On Monday and Tuesday November 21. and 22. we will look at architecture and its documentation.
+On Tuesday and Wednesday May 2. and 5. we will look at architecture and its documentation.
 
-For Monday there is an extract from a book. I have tried to pick out the parts which are most relevant for your project and exam. Monday will be mostly theory.
+For Tuesday there is an extract from a book. I have tried to pick out the parts which are most relevant for your project and exam. Tuesday will be mostly theory.
 
-For Tuesday we will look at the tool called Javadoc, which is used to produce documentation of methods, classes, packages and projects. Tuesday will be a lot of workshop.
+For Wednesday we will look at the tool called Javadoc, which is used to produce documentation of methods, classes, packages and projects. Wednesday will be a lot of workshop.
 
 Readings:
 
