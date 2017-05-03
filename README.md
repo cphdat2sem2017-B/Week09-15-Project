@@ -21,9 +21,9 @@ Aflevering af projektet er en forudsætning for at man kan gå til eksamen. Der 
 | May 3rd           | Documentation           |
 |                   |                         |
 
-##Design Patterns we talked about in class:
-Low coupling, High Cohesion
-Facade pattern
-DataMapper pattern
-MVC (Model-View-Control)
-Three layer architecture.
+## Design Patterns we talked about in class:
+- Low coupling, High Cohesion  
+- Facade pattern  
+- DataMapper pattern  
+- MVC (Model-View-Control)  
+- Three layer architecture.  
