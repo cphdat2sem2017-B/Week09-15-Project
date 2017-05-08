@@ -12,7 +12,7 @@ public class ExceptionThrow
         //throw new Exception();
         //throw new IOException();
         
-        /*
+        
         try
         {
             throw new ExceptionCustom(100);
@@ -24,7 +24,7 @@ public class ExceptionThrow
             System.out.println(Arrays.toString(Excep.getStackTrace()));
             System.out.println(Excep.getAmount());
         }
-        */
+        
         
         System.out.println("Program finished");
     }

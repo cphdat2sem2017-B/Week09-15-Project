@@ -8,8 +8,9 @@ public class Exceptions
     {
         try
         {
+            System.out.println("UncheckedBefore");
             int result = 2 / 0;
-            System.out.println("Unchecked");
+            System.out.println("UncheckedAfter");
         }
         catch(Exception ex)
         {
@@ -17,8 +18,9 @@ public class Exceptions
         
         try
         {
+            System.out.println("CheckedBefore");
             a();
-            System.out.println("Checked");
+            System.out.println("CheckedAfter");
         }
         catch (Exception ex)
         {

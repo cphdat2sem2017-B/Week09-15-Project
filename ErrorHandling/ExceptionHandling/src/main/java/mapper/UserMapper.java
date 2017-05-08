@@ -29,9 +29,9 @@ public class UserMapper
                 users.add(new User(username, password));
             }
         }
-        catch (SQLException ex)
+        catch (Exception ex)
         {
-            //throw new UserException("Some problem with getUsers");
+            throw new UserException("Some problem with getUsers");
         }
 
         return users;
