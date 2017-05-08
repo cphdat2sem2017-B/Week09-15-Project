@@ -57,7 +57,7 @@ public class UserMapper
                 throw new UserException("No user found with id: " + id);
             }
         }
-        catch (SQLException ex)
+        catch (Exception ex)
         {
             throw new UserException("Problem in getUser method: " + ex.getMessage());
         }
